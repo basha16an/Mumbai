@@ -1,0 +1,19 @@
+ -rw-r--r-- 1 Basha 197121 589 Aug  4 22:49 Basicshello.txt
+-rw-r--r-- 1 Basha 197121 781 Aug  5 12:14 Basics.txt
+drwxr-xr-x 1 Basha 197121   0 Oct 14 12:54 ant/
+drwxr-xr-x 1 Basha 197121   0 Oct 14 12:54 Docker/
+drwxr-xr-x 1 Basha 197121   0 Oct 14 12:54 Groovy/
+drwxr-xr-x 1 Basha 197121   0 Oct 14 12:54 Useme/
+drwxr-xr-x 1 Basha 197121   0 Oct 16 05:26 Pwerpoint/
+drwxr-xr-x 1 Basha 197121   0 Oct 27 18:44 Unix/
+drwxr-xr-x 1 Basha 197121   0 Oct 29 11:40 Jenkins/
+drwxr-xr-x 1 Basha 197121   0 Oct 31 06:54 windows/
+-rw-r--r-- 1 Basha 197121 235 Oct 31 06:54 basha
+drwxr-xr-x 1 Basha 197121   0 Nov  1 12:09 Eclipse/
+drwxr-xr-x 1 Basha 197121   0 Nov  1 17:12 Linux/
+drwxr-xr-x 1 Basha 197121   0 Nov  3 23:16 Notepad++/
+drwxr-xr-x 1 Basha 197121   0 Nov  3 23:20 MavenBasic/
+drwxr-xr-x 1 Basha 197121   0 Nov  4 16:12 Java/
+drwxr-xr-x 1 Basha 197121   0 Nov  4 23:45 Git/
+
+
